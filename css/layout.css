@@ -51,4 +51,5 @@
 .col-5{
   float: left;
   width: 31%;
+    clear:both;
 }
