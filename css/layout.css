@@ -29,11 +29,12 @@
   float:left;
   width: 32%;
   padding-bottom: 5%;
+  height:auto;
 }
 .col-2{
   float:left;
   width:62%;
-  
+
 }
 [class *="col-"]{
   margin-left: 2%;
