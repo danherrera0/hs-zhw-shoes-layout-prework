@@ -41,6 +41,7 @@
 .col-3{
   float: left;
   width: 31%;
+  clear:both;
 }
 .col-4{
   float: left;
